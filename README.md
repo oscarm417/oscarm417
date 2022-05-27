@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oscarm417
-- 👀 I’m interested in stocks, data analysis on gambling, and machine learning
+- 👀 I’m interested in stocks, data analysis, and machine learning
 - 🌱 I’m currently learning flutter to create apps
 - 💞️ I’m looking to collaborate on a few social apps on flutter using Dart
 - 📫 How to reach me at oscar.morals417@gmail.com 

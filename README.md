@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oscarm417
-- 👀 I’m interested in stocks, data analysis, and machine learning
+- 👀 Looking to build large, impactfull applications. 
 - 📫 How to reach me at oscar.morals417@gmail.com 
-- Working on my own app called "one to one". Release date tbd
+
 
 <!---
 oscarm417/oscarm417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

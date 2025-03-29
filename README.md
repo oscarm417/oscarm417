@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oscarm417
-- 👀 Looking to build large, impactfull applications. 
-- 📫 How to reach me at oscar.morals417@gmail.com 
+- 👀 Founder of OpenBids, YardSmart, and NodeHub
+ 
 
 
 <!---

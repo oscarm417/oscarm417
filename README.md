@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oscarm417
-- 👀 Founder of OpenBids, YardSmart, and NodeHub
+- 👀 Founder of DateApply.com, YardSmart.io (in progress), and Fortuna (in progress)
  
 
 

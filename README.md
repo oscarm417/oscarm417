@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @oscarm417
-- 👀 Founder of DateApply.com, YardSmart.io (in progress), and Fortuna (in progress)
+- 👋 Hi
  
 
 
